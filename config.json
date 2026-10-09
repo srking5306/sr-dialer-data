@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "updatedAt": 0,
+  "overall": {
+    "id": "overall",
+    "name": "All-in-One Premium",
+    "price": 175,
+    "enabled": true,
+    "category": "overall",
+    "desc": "Saare premium features, ek baar mein - aage aane wale bhi"
+  },
+  "features": [
+    {
+      "id": "block_numbers",
+      "name": "Block Numbers",
+      "price": 0,
+      "enabled": true,
+      "category": "free",
+      "desc": "Number block / unblock - hamesha free"
+    },
+    {
+      "id": "silent_recording",
+      "name": "Silent Call Recording",
+      "price": 30,
+      "enabled": true,
+      "category": "recording",
+      "desc": "Recording par samne wale ko announcement nahi sunai degi"
+    },
+    {
+      "id": "theme_aurora",
+      "name": "Aurora Theme",
+      "price": 10,
+      "enabled": true,
+      "category": "theme",
+      "desc": "Laal-neela behta aurora background"
+    },
+    {
+      "id": "theme_live",
+      "name": "Live Neon Theme",
+      "price": 12,
+      "enabled": true,
+      "category": "theme",
+      "desc": "Chalta hua neon live background"
+    },
+    {
+      "id": "turbo_speed",
+      "name": "Turbo Speed",
+      "price": 10,
+      "enabled": true,
+      "category": "performance",
+      "desc": "Animations kam, list turant khule - tez loading"
+    },
+    {
+      "id": "call_screen_styles",
+      "name": "Call Screen Styles",
+      "price": 15,
+      "enabled": false,
+      "category": "callscreen",
+      "desc": "Island / Floating Ball / HUD Ring - size, position, color, animation"
+    },
+    {
+      "id": "dialer_theme",
+      "name": "Dialer Theme",
+      "price": 12,
+      "enabled": false,
+      "category": "theme",
+      "desc": "Dialer ka look apne hisab se"
+    },
+    {
+      "id": "live_wallpaper",
+      "name": "Live Wallpapers",
+      "price": 12,
+      "enabled": false,
+      "category": "theme",
+      "desc": "Photo wale live wallpapers"
+    }
+  ],
+  "gateway": {
+    "payUrl": "https://fampaygateway.lovable.app/pay/H956RZ79/{amount}",
+    "statusUrl": "",
+    "timeoutSec": 300
+  }
+}
