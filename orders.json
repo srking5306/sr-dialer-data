@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791564666980,
+  "updatedAt": 1791564669740,
   "orders": {
     "SR-DCAED4B1578E": {
       "ref": "SR-DCAED4B1578E",
@@ -11,7 +11,7 @@
       "utr": "664845075346",
       "status": "paid",
       "ts": 1791564666980,
-      "granted": false
+      "granted": true
     }
   }
 }
