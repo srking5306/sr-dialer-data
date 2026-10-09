@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 0,
+  "updatedAt": 1728504000000,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
@@ -17,14 +17,6 @@
       "enabled": true,
       "category": "free",
       "desc": "Number block / unblock - hamesha free"
-    },
-    {
-      "id": "silent_recording",
-      "name": "Silent Call Recording",
-      "price": 30,
-      "enabled": true,
-      "category": "recording",
-      "desc": "Recording par samne wale ko announcement nahi sunai degi"
     },
     {
       "id": "theme_aurora",
