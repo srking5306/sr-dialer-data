@@ -1,14 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": 1791554887378,
+  "updatedAt": 1791555420271,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
-      "overall": {
-        "since": 1791554887378,
-        "expires": 1794146887378,
-        "source": "gift"
-      },
+      "overall": null,
       "features": {
         "theme_aurora": {
           "since": 1791554833738,
@@ -65,6 +61,13 @@
           "type": "gift",
           "item": "turbo_speed",
           "days": 30,
+          "note": ""
+        },
+        {
+          "t": 1791555420271,
+          "type": "revoke",
+          "item": "overall",
+          "days": null,
           "note": ""
         }
       ]
