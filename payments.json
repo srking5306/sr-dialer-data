@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791559365064,
+  "updatedAt": 1791559463729,
   "config": {
     "user": "",
     "host": "imap.gmail.com",
@@ -10,8 +10,8 @@
     "utrWindowSec": 600,
     "tolerance": 1,
     "pollSec": 30,
-    "autopoll": false,
-    "autogrant": false,
+    "autopoll": true,
+    "autogrant": true,
     "patterns": {
       "amount": "₹\\s*([0-9][0-9,]*(?:\\.[0-9]+)?)",
       "utr": "UTR\\s*:?\\s*([0-9]{8,20})",
