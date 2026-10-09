@@ -1,17 +1,11 @@
 {
   "schema": 1,
-  "updatedAt": 1791555431230,
+  "updatedAt": 1791555434649,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
       "overall": null,
-      "features": {
-        "turbo_speed": {
-          "since": 1791554887378,
-          "expires": 1794146887378,
-          "source": "gift"
-        }
-      },
+      "features": {},
       "log": [
         {
           "t": 1791554833738,
@@ -73,6 +67,13 @@
           "t": 1791555431230,
           "type": "revoke",
           "item": "silent_recording",
+          "days": null,
+          "note": ""
+        },
+        {
+          "t": 1791555434649,
+          "type": "revoke",
+          "item": "turbo_speed",
           "days": null,
           "note": ""
         }
