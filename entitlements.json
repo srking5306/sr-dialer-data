@@ -1,10 +1,14 @@
 {
   "schema": 1,
-  "updatedAt": 1791554833738,
+  "updatedAt": 1791554887378,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
-      "overall": null,
+      "overall": {
+        "since": 1791554887378,
+        "expires": 1794146887378,
+        "source": "gift"
+      },
       "features": {
         "theme_aurora": {
           "since": 1791554833738,
@@ -14,6 +18,16 @@
         "theme_live": {
           "since": 1791554833738,
           "expires": 1791641233738,
+          "source": "gift"
+        },
+        "silent_recording": {
+          "since": 1791554887378,
+          "expires": 1794146887378,
+          "source": "gift"
+        },
+        "turbo_speed": {
+          "since": 1791554887378,
+          "expires": 1794146887378,
           "source": "gift"
         }
       },
@@ -30,6 +44,27 @@
           "type": "gift",
           "item": "theme_live",
           "days": 1,
+          "note": ""
+        },
+        {
+          "t": 1791554887378,
+          "type": "gift",
+          "item": "overall",
+          "days": 30,
+          "note": ""
+        },
+        {
+          "t": 1791554887378,
+          "type": "gift",
+          "item": "silent_recording",
+          "days": 30,
+          "note": ""
+        },
+        {
+          "t": 1791554887378,
+          "type": "gift",
+          "item": "turbo_speed",
+          "days": 30,
           "note": ""
         }
       ]
