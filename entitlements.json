@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791555460803,
+  "updatedAt": 1791564668382,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
@@ -9,7 +9,13 @@
         "expires": 1794147460803,
         "source": "gift"
       },
-      "features": {},
+      "features": {
+        "theme_aurora": {
+          "since": 1791564668382,
+          "expires": null,
+          "source": "sale"
+        }
+      },
       "log": [
         {
           "t": 1791554833738,
@@ -87,6 +93,13 @@
           "item": "overall",
           "days": 30,
           "note": ""
+        },
+        {
+          "t": 1791564668382,
+          "type": "sale",
+          "item": "theme_aurora",
+          "days": null,
+          "note": "auto SR-DCAED4B1578E"
         }
       ]
     }
