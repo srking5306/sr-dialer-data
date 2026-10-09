@@ -1,5 +1,26 @@
 {
   "schema": 1,
-  "updatedAt": 1791566422738,
-  "devices": {}
+  "updatedAt": 1791566757621,
+  "devices": {
+    "SR-B091-593B-AEA8": {
+      "label": "",
+      "overall": null,
+      "features": {
+        "theme_aurora": {
+          "since": 1791566757621,
+          "expires": null,
+          "source": "sale"
+        }
+      },
+      "log": [
+        {
+          "t": 1791566757621,
+          "type": "sale",
+          "item": "theme_aurora",
+          "days": null,
+          "note": "auto SR-D47B82BD2461"
+        }
+      ]
+    }
+  }
 }
