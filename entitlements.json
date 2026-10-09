@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791566757621,
+  "updatedAt": 1791568886335,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
@@ -10,6 +10,11 @@
           "since": 1791566757621,
           "expires": null,
           "source": "sale"
+        },
+        "theme_live": {
+          "since": 1791568886335,
+          "expires": 1791655286335,
+          "source": "gift"
         }
       },
       "log": [
@@ -19,6 +24,13 @@
           "item": "theme_aurora",
           "days": null,
           "note": "auto SR-D47B82BD2461"
+        },
+        {
+          "t": 1791568886335,
+          "type": "gift",
+          "item": "theme_live",
+          "days": 1,
+          "note": ""
         }
       ]
     }
