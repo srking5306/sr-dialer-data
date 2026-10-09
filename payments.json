@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "updatedAt": 1791559365064,
+  "config": {
+    "user": "",
+    "host": "imap.gmail.com",
+    "port": 993,
+    "folder": "INBOX",
+    "autoWindowSec": 300,
+    "utrWindowSec": 600,
+    "tolerance": 1,
+    "pollSec": 30,
+    "autopoll": false,
+    "autogrant": false,
+    "patterns": {
+      "amount": "₹\\s*([0-9][0-9,]*(?:\\.[0-9]+)?)",
+      "utr": "UTR\\s*:?\\s*([0-9]{8,20})",
+      "txnid": "(?:Transaction\\s*ID|Txn\\s*ID|Reference\\s*ID)\\s*:?\\s*([A-Z0-9]{6,40})",
+      "from": "from\\s+([A-Z][A-Za-z .\\-]{1,60})"
+    }
+  },
+  "lastUid": 0,
+  "watches": [],
+  "seenEmails": []
+}
