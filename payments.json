@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791565046090,
+  "updatedAt": 1791565048384,
   "config": {
     "user": "",
     "host": "imap.gmail.com",
@@ -22,6 +22,86 @@
   "lastUid": 1791564661000,
   "watches": [],
   "seenEmails": [
+    {
+      "uid": "1791563319000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹10.0 in your FamX account",
+      "date": 1791563319000,
+      "amount": 10,
+      "utr": "664889165025",
+      "txnId": "FMPIB6759308655",
+      "payer": "VADDI PAPAMMA at"
+    },
+    {
+      "uid": "1791563321000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791563321000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6759308773",
+      "payer": ""
+    },
+    {
+      "uid": "1791563684000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹10.0 in your FamX account",
+      "date": 1791563684000,
+      "amount": 10,
+      "utr": "664831574696",
+      "txnId": "FMPIB6759350202",
+      "payer": "VADDI PAPAMMA at"
+    },
+    {
+      "uid": "1791563685000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791563685000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6759350357",
+      "payer": ""
+    },
+    {
+      "uid": "1791563954000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹10.0 in your FamX account",
+      "date": 1791563954000,
+      "amount": 10,
+      "utr": "664816761519",
+      "txnId": "FMPIB6759378432",
+      "payer": "VADDI PAPAMMA at"
+    },
+    {
+      "uid": "1791563955000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791563955000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6759378543",
+      "payer": ""
+    },
+    {
+      "uid": "1791564660000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹10.0 in your FamX account",
+      "date": 1791564660000,
+      "amount": 10,
+      "utr": "664845075346",
+      "txnId": "FMPIB6759441397",
+      "payer": "VADDI PAPAMMA at"
+    },
+    {
+      "uid": "1791564661000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791564661000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6759441482",
+      "payer": ""
+    },
     {
       "uid": "1791563319000",
       "from": "FamApp <no-reply@famapp.in>",
