@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791611274518,
+  "updatedAt": 1791611277055,
   "orders": {
     "SR-D47B82BD2461": {
       "ref": "SR-D47B82BD2461",
@@ -22,7 +22,7 @@
       "utr": "316557490324",
       "status": "paid",
       "ts": 1791611274518,
-      "granted": false
+      "granted": true
     }
   },
   "usedMails": [
