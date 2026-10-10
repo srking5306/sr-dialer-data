@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791568886335,
+  "updatedAt": 1791600426998,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
@@ -14,6 +14,11 @@
         "theme_live": {
           "since": 1791568886335,
           "expires": 1791655286335,
+          "source": "gift"
+        },
+        "theme_hoodie_devil": {
+          "since": 1791600426998,
+          "expires": 1791686826998,
           "source": "gift"
         }
       },
@@ -29,6 +34,13 @@
           "t": 1791568886335,
           "type": "gift",
           "item": "theme_live",
+          "days": 1,
+          "note": ""
+        },
+        {
+          "t": 1791600426998,
+          "type": "gift",
+          "item": "theme_hoodie_devil",
           "days": 1,
           "note": ""
         }
