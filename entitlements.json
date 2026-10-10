@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791611275726,
+  "updatedAt": 1791611486202,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
@@ -48,7 +48,11 @@
     },
     "SR-0720-C360-8976": {
       "label": "",
-      "overall": null,
+      "overall": {
+        "since": 1791611486202,
+        "expires": 1794203486202,
+        "source": "gift"
+      },
       "features": {
         "theme_hoodie_devil": {
           "since": 1791611275726,
@@ -63,6 +67,13 @@
           "item": "theme_hoodie_devil",
           "days": null,
           "note": "auto SR-3A8EAE4672B8"
+        },
+        {
+          "t": 1791611486202,
+          "type": "gift",
+          "item": "overall",
+          "days": 30,
+          "note": ""
         }
       ]
     }
