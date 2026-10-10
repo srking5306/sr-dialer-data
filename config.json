@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": 1728504000000,
+  "updatedAt": 1791595106987,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
-    "price": 175,
+    "price": 50,
     "enabled": true,
     "category": "overall",
     "desc": "Saare premium features, ek baar mein - aage aane wale bhi"
