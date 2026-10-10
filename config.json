@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791600240426,
+  "updatedAt": 1791600363799,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
@@ -65,6 +65,14 @@
       "enabled": false,
       "category": "theme",
       "desc": "Photo wale live wallpapers"
+    },
+    {
+      "id": "theme_hoodie_devil",
+      "name": "Hoodie Devil Theme",
+      "price": 10,
+      "enabled": true,
+      "category": "custom",
+      "desc": "Boys ke liye hai girls nahi lenge"
     }
   ],
   "gateway": {
