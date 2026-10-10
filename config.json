@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791604420794,
+  "updatedAt": 1791604626419,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
@@ -30,7 +30,7 @@
       "id": "theme_live",
       "name": "Live Neon Theme",
       "price": 12,
-      "enabled": true,
+      "enabled": false,
       "category": "theme",
       "desc": "Chalta hua neon live background"
     },
@@ -46,7 +46,7 @@
       "id": "call_screen_styles",
       "name": "Call Screen Styles",
       "price": 15,
-      "enabled": true,
+      "enabled": false,
       "category": "callscreen",
       "desc": "Island / Floating Ball / HUD Ring - size, position, color, animation"
     },
@@ -54,7 +54,7 @@
       "id": "dialer_theme",
       "name": "Dialer Theme",
       "price": 12,
-      "enabled": true,
+      "enabled": false,
       "category": "theme",
       "desc": "Dialer ka look apne hisab se"
     },
@@ -62,7 +62,7 @@
       "id": "live_wallpaper",
       "name": "Live Wallpapers",
       "price": 12,
-      "enabled": true,
+      "enabled": false,
       "category": "theme",
       "desc": "Photo wale live wallpapers"
     },
