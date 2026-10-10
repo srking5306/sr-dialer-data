@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791600433452,
+  "updatedAt": 1791604483455,
   "config": {
     "user": "",
     "host": "imap.gmail.com",
@@ -19,9 +19,59 @@
       "from": "from\\s+([A-Z][A-Za-z .\\-]{1,60})"
     }
   },
-  "lastUid": 1791588619000,
+  "lastUid": 1791601930000,
   "watches": [],
   "seenEmails": [
+    {
+      "uid": "1791566750000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹10.0 in your FamX account",
+      "date": 1791566750000,
+      "amount": 10,
+      "utr": "664870964886",
+      "txnId": "FMPIB6759601209",
+      "payer": "VADDI PAPAMMA at"
+    },
+    {
+      "uid": "1791566751000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791566751000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6759601319",
+      "payer": ""
+    },
+    {
+      "uid": "1791588619000",
+      "from": "Railway <hello@news.railway.app>",
+      "subject": "Railway.com is now just Railway on iOS, Railway Authentication, OpenRouter Support",
+      "date": 1791588619000,
+      "amount": null,
+      "utr": "",
+      "txnId": "",
+      "payer": ""
+    },
+    {
+      "uid": "1791601844000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹35.00 is successful",
+      "date": 1791601844000,
+      "amount": 35,
+      "utr": "664905348070",
+      "txnId": "FMPU01a123ca",
+      "payer": ""
+    },
+    {
+      "uid": "1791601930000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹55.00 is successful",
+      "date": 1791601930000,
+      "amount": 55,
+      "utr": "664905354492",
+      "txnId": "FMPU01a123cb",
+      "payer": ""
+    },
     {
       "uid": "1791566750000",
       "from": "FamApp <no-reply@famapp.in>",
