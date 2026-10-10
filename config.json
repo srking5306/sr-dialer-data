@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791600363799,
+  "updatedAt": 1791604420794,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
@@ -46,7 +46,7 @@
       "id": "call_screen_styles",
       "name": "Call Screen Styles",
       "price": 15,
-      "enabled": false,
+      "enabled": true,
       "category": "callscreen",
       "desc": "Island / Floating Ball / HUD Ring - size, position, color, animation"
     },
@@ -54,7 +54,7 @@
       "id": "dialer_theme",
       "name": "Dialer Theme",
       "price": 12,
-      "enabled": false,
+      "enabled": true,
       "category": "theme",
       "desc": "Dialer ka look apne hisab se"
     },
@@ -62,7 +62,7 @@
       "id": "live_wallpaper",
       "name": "Live Wallpapers",
       "price": 12,
-      "enabled": false,
+      "enabled": true,
       "category": "theme",
       "desc": "Photo wale live wallpapers"
     },
@@ -73,10 +73,18 @@
       "enabled": true,
       "category": "custom",
       "desc": "Boys ke liye hai girls nahi lenge"
+    },
+    {
+      "id": "title_animations",
+      "name": "Title Animations",
+      "price": 15,
+      "enabled": true,
+      "category": "custom",
+      "desc": ""
     }
   ],
   "gateway": {
-    "payUrl": "https://fampaygateway.lovable.app/pay/H956RZ79/{amount}",
+    "payUrl": "https://srpayment.lovable.app/{amount}",
     "statusUrl": "",
     "timeoutSec": 300
   }
