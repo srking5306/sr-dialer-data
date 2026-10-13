@@ -1,10 +1,14 @@
 {
   "schema": 1,
-  "updatedAt": 1791611486202,
+  "updatedAt": 1791872592171,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
-      "overall": null,
+      "overall": {
+        "since": 1791872592171,
+        "expires": null,
+        "source": "gift"
+      },
       "features": {
         "theme_aurora": {
           "since": 1791566757621,
@@ -42,6 +46,13 @@
           "type": "gift",
           "item": "theme_hoodie_devil",
           "days": 1,
+          "note": ""
+        },
+        {
+          "t": 1791872592171,
+          "type": "gift",
+          "item": "overall",
+          "days": null,
           "note": ""
         }
       ]
