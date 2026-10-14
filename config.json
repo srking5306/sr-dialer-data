@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791604626419,
+  "updatedAt": 1791941750253,
   "overall": {
     "id": "overall",
     "name": "All-in-One Premium",
@@ -46,7 +46,7 @@
       "id": "call_screen_styles",
       "name": "Call Screen Styles",
       "price": 15,
-      "enabled": false,
+      "enabled": true,
       "category": "callscreen",
       "desc": "Island / Floating Ball / HUD Ring - size, position, color, animation"
     },
