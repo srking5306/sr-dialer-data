@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791604483455,
+  "updatedAt": 1791942003242,
   "config": {
     "user": "",
     "host": "imap.gmail.com",
@@ -19,9 +19,249 @@
       "from": "from\\s+([A-Z][A-Za-z .\\-]{1,60})"
     }
   },
-  "lastUid": 1791601930000,
+  "lastUid": 1791906256000,
   "watches": [],
   "seenEmails": [
+    {
+      "uid": "1791609868000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹10.00 is successful",
+      "date": 1791609868000,
+      "amount": 10,
+      "utr": "664906143675",
+      "txnId": "FMPU01a12445",
+      "payer": ""
+    },
+    {
+      "uid": "1791628339000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹39.0 is successful",
+      "date": 1791628339000,
+      "amount": 1380,
+      "utr": "401700391125",
+      "txnId": "FMPIB6763317246",
+      "payer": "M SUMITA at"
+    },
+    {
+      "uid": "1791628339000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹1380.0 in your FamX account",
+      "date": 1791628339000,
+      "amount": 1380,
+      "utr": "401700391125",
+      "txnId": "FMPIB6763317246",
+      "payer": "M SUMITA at"
+    },
+    {
+      "uid": "1791646870000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹199.00 is successful",
+      "date": 1791646870000,
+      "amount": 199,
+      "utr": "",
+      "txnId": "FMPU01a12679",
+      "payer": ""
+    },
+    {
+      "uid": "1791705216000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹177.00 is successful",
+      "date": 1791705216000,
+      "amount": 177,
+      "utr": "665015996337",
+      "txnId": "FMPU01a129f3",
+      "payer": ""
+    },
+    {
+      "uid": "1791705925000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹300.00 is successful",
+      "date": 1791705925000,
+      "amount": 300,
+      "utr": "",
+      "txnId": "FMPU01a129fe",
+      "payer": ""
+    },
+    {
+      "uid": "1791715010000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹200.00 is successful",
+      "date": 1791715010000,
+      "amount": 200,
+      "utr": "665017346962",
+      "txnId": "FMPU01a12a89",
+      "payer": ""
+    },
+    {
+      "uid": "1791737367000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹50.00 is successful",
+      "date": 1791737367000,
+      "amount": 50,
+      "utr": "665021320266",
+      "txnId": "FMPU01a12bde",
+      "payer": ""
+    },
+    {
+      "uid": "1791737471000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹20.00 is successful",
+      "date": 1791737471000,
+      "amount": 20,
+      "utr": "665021330439",
+      "txnId": "FMPU01a12be0",
+      "payer": ""
+    },
+    {
+      "uid": "1791737617000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹20.00 is successful",
+      "date": 1791737617000,
+      "amount": 20,
+      "utr": "665021344740",
+      "txnId": "FMPU01a12be2",
+      "payer": ""
+    },
+    {
+      "uid": "1791776280000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹280.0 in your FamX account",
+      "date": 1791776280000,
+      "amount": 280,
+      "utr": "460504738858",
+      "txnId": "FMPIB6774460175",
+      "payer": "M SUMITA at"
+    },
+    {
+      "uid": "1791776281000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791776281000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6774460270",
+      "payer": ""
+    },
+    {
+      "uid": "1791776309000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹200.0 in your FamX account",
+      "date": 1791776309000,
+      "amount": 200,
+      "utr": "853492908497",
+      "txnId": "FMPIB6774462292",
+      "payer": "M SUMITA at"
+    },
+    {
+      "uid": "1791776311000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791776311000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6774462388",
+      "payer": ""
+    },
+    {
+      "uid": "1791796976000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹1.0 is successful",
+      "date": 1791796976000,
+      "amount": 1,
+      "utr": "",
+      "txnId": "FMPIB6776264460",
+      "payer": ""
+    },
+    {
+      "uid": "1791797382000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹1.0 in your FamX account",
+      "date": 1791797382000,
+      "amount": 1,
+      "utr": "",
+      "txnId": "FMPIB6776304797",
+      "payer": "Kanhaiya at"
+    },
+    {
+      "uid": "1791813580000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹190.0 in your FamX account",
+      "date": 1791813580000,
+      "amount": 190,
+      "utr": "615911128436",
+      "txnId": "FMPIB6778271720",
+      "payer": "MOHIT SINGH at"
+    },
+    {
+      "uid": "1791813582000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791813582000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6778271871",
+      "payer": ""
+    },
+    {
+      "uid": "1791814275000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹368.00 is successful",
+      "date": 1791814275000,
+      "amount": 368,
+      "utr": "",
+      "txnId": "FMPU01a13074",
+      "payer": ""
+    },
+    {
+      "uid": "1791816014000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "You received ₹400.0 in your FamX account",
+      "date": 1791816014000,
+      "amount": 400,
+      "utr": "731524749446",
+      "txnId": "FMPIB6778602492",
+      "payer": "M SUMITA at"
+    },
+    {
+      "uid": "1791816016000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Keeper just saved ₹10.0 for you!",
+      "date": 1791816016000,
+      "amount": 10,
+      "utr": "",
+      "txnId": "FMPIB6778602647",
+      "payer": ""
+    },
+    {
+      "uid": "1791861285000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹130.00 is successful",
+      "date": 1791861285000,
+      "amount": 130,
+      "utr": "",
+      "txnId": "FMPU01a13341",
+      "payer": ""
+    },
+    {
+      "uid": "1791905895000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹12.00 is successful",
+      "date": 1791905895000,
+      "amount": 12,
+      "utr": "665237502583",
+      "txnId": "FMPU01a135ea",
+      "payer": ""
+    },
+    {
+      "uid": "1791906256000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹212.00 is successful",
+      "date": 1791906256000,
+      "amount": 212,
+      "utr": "665237562256",
+      "txnId": "FMPU01a135ef",
+      "payer": ""
+    },
     {
       "uid": "1791566750000",
       "from": "FamApp <no-reply@famapp.in>",
@@ -380,186 +620,6 @@
       "amount": 10,
       "utr": "",
       "txnId": "FMPU01a120b9",
-      "payer": ""
-    },
-    {
-      "uid": "1791550862000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.0 in your FamX account",
-      "date": 1791550862000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757769371",
-      "payer": "PANKAJ at"
-    },
-    {
-      "uid": "1791550863000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791550863000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757769572",
-      "payer": ""
-    },
-    {
-      "uid": "1791550964000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹10.0 is successful",
-      "date": 1791550964000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757781932",
-      "payer": ""
-    },
-    {
-      "uid": "1791551402000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.01 in your FamX account",
-      "date": 1791551402000,
-      "amount": 10.01,
-      "utr": "",
-      "txnId": "FMPIB6757837389",
-      "payer": "PANKAJ at"
-    },
-    {
-      "uid": "1791551403000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791551403000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757837601",
-      "payer": ""
-    },
-    {
-      "uid": "1791551626000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹10.01 is successful",
-      "date": 1791551626000,
-      "amount": 10.01,
-      "utr": "",
-      "txnId": "FMPIB6757866146",
-      "payer": ""
-    },
-    {
-      "uid": "1791551673000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.0 in your FamX account",
-      "date": 1791551673000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757872523",
-      "payer": "PANKAJ at"
-    },
-    {
-      "uid": "1791551675000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791551675000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757872740",
-      "payer": ""
-    },
-    {
-      "uid": "1791551947000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹10.0 is successful",
-      "date": 1791551947000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757907672",
-      "payer": ""
-    },
-    {
-      "uid": "1791551991000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.0 in your FamX account",
-      "date": 1791551991000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757913470",
-      "payer": "PANKAJ at"
-    },
-    {
-      "uid": "1791551992000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791551992000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757913675",
-      "payer": ""
-    },
-    {
-      "uid": "1791552431000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹10.0 is successful",
-      "date": 1791552431000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6757970038",
-      "payer": ""
-    },
-    {
-      "uid": "1791553281000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.0 in your FamX account",
-      "date": 1791553281000,
-      "amount": 10,
-      "utr": "664857960304",
-      "txnId": "FMPIB6758080465",
-      "payer": "VADDI PAPAMMA at"
-    },
-    {
-      "uid": "1791553283000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791553283000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6758080626",
-      "payer": ""
-    },
-    {
-      "uid": "1791553621000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹10.0 in your FamX account",
-      "date": 1791553621000,
-      "amount": 10,
-      "utr": "664825350314",
-      "txnId": "FMPIB6758124526",
-      "payer": "VADDI PAPAMMA at"
-    },
-    {
-      "uid": "1791553623000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Keeper just saved ₹10.0 for you!",
-      "date": 1791553623000,
-      "amount": 10,
-      "utr": "",
-      "txnId": "FMPIB6758124662",
-      "payer": ""
-    },
-    {
-      "uid": "1791553719000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹20.00 is successful",
-      "date": 1791553719000,
-      "amount": 20,
-      "utr": "664802361280",
-      "txnId": "FMPU01a120ec",
-      "payer": ""
-    },
-    {
-      "uid": "1791558345000",
-      "from": "Google <no-reply@accounts.google.com>",
-      "subject": "Security alert",
-      "date": 1791558345000,
-      "amount": null,
-      "utr": "",
-      "txnId": "",
       "payer": ""
     }
   ]
