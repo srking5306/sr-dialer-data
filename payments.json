@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791964564321,
+  "updatedAt": 1792077783816,
   "config": {
     "user": "",
     "host": "imap.gmail.com",
@@ -19,9 +19,29 @@
       "from": "from\\s+([A-Z][A-Za-z .\\-]{1,60})"
     }
   },
-  "lastUid": 1791948129000,
+  "lastUid": 1792036933000,
   "watches": [],
   "seenEmails": [
+    {
+      "uid": "1791988269000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "Your payment of ₹230.00 is successful",
+      "date": 1791988269000,
+      "amount": 230,
+      "utr": "",
+      "txnId": "FMPU01a13ad2",
+      "payer": ""
+    },
+    {
+      "uid": "1792036933000",
+      "from": "FamApp <no-reply@famapp.in>",
+      "subject": "New Login Alert 🚨",
+      "date": 1792036933000,
+      "amount": null,
+      "utr": "",
+      "txnId": "",
+      "payer": "your own device"
+    },
     {
       "uid": "1791628339000",
       "from": "FamApp <no-reply@famapp.in>",
@@ -601,26 +621,6 @@
       "utr": "",
       "txnId": "FMPIB6778271871",
       "payer": ""
-    },
-    {
-      "uid": "1791814275000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "Your payment of ₹368.00 is successful",
-      "date": 1791814275000,
-      "amount": 368,
-      "utr": "",
-      "txnId": "FMPU01a13074",
-      "payer": ""
-    },
-    {
-      "uid": "1791816014000",
-      "from": "FamApp <no-reply@famapp.in>",
-      "subject": "You received ₹400.0 in your FamX account",
-      "date": 1791816014000,
-      "amount": 400,
-      "utr": "731524749446",
-      "txnId": "FMPIB6778602492",
-      "payer": "M SUMITA at"
     }
   ]
 }
