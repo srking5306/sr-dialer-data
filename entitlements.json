@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1791872592171,
+  "updatedAt": 1794741516453,
   "devices": {
     "SR-B091-593B-AEA8": {
       "label": "",
@@ -84,6 +84,24 @@
           "type": "gift",
           "item": "overall",
           "days": 30,
+          "note": ""
+        }
+      ]
+    },
+    "SR-A8BA-635A-696B": {
+      "label": "",
+      "overall": {
+        "since": 1794741516453,
+        "expires": null,
+        "source": "gift"
+      },
+      "features": {},
+      "log": [
+        {
+          "t": 1794741516453,
+          "type": "gift",
+          "item": "overall",
+          "days": null,
           "note": ""
         }
       ]
